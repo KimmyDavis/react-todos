@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import AddTodo from "./components/addTodo";
+import AddTodo from "./components/AddTodo";
 import TodoList from "./components/TodoList";
 import { useState } from "react";
 import { Toaster } from "@/components/ui/sonner";
